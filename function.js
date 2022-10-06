@@ -3,7 +3,7 @@
 //    return a + b
 //}
 
-const addTWO = require("./external.js")
+const addTwo = require("./external.js")
 
 const sum = addTwo(3,4)
 console.log(sum)
